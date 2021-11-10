@@ -1,0 +1,17 @@
+                  FAR WEST
+
+
+                   Jouer
+
+                  Quitter﻿
+
+
+
+
+Dans le menu : z et s pour bouger le curseur
+               a pour sélectionner
+
+En jeu : q et d pour se déplacer
+         z pour sauter
+         s pour tirer
+         a pour finir la partie prématurément
